@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-06-07T12:07:33.929Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.41" etag="RxHCpubo_QR8SJc_hprU" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-07T12:24:36.893Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.41" etag="U1J5qzOYuWejXf0xfCiU" version="14.7.6" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="803" dy="461" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1663" dy="956" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="Controller" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="207" y="56" width="100" height="191" as="geometry" />
+          <mxGeometry x="207" y="56" width="100" height="478" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
           <mxGeometry x="45" y="70" width="10" height="93" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="Subject" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="425" y="56" width="100" height="532" as="geometry" />
+          <mxGeometry x="425" y="56" width="100" height="376" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
           <mxGeometry x="45" y="115" width="10" height="64" as="geometry" />
@@ -28,9 +28,9 @@
             <mxPoint x="68" y="104" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KaSOrM78lBxp9mtejpCv-12" value="" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="KaSOrM78lBxp9mtejpCv-12" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="67.66000000000011" y="399" as="sourcePoint" />
+            <mxPoint x="68" y="537" as="sourcePoint" />
             <mxPoint x="67.66" y="363" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -47,10 +47,10 @@
           <mxGeometry x="52.5" y="157" width="10" height="74" as="geometry" />
         </mxCell>
         <mxCell id="KaSOrM78lBxp9mtejpCv-17" value="AuthorizingRealm" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1087" y="56" width="123" height="358" as="geometry" />
+          <mxGeometry x="1087" y="56" width="123" height="440" as="geometry" />
         </mxCell>
         <mxCell id="KaSOrM78lBxp9mtejpCv-18" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="KaSOrM78lBxp9mtejpCv-17">
-          <mxGeometry x="56.5" y="169" width="10" height="81" as="geometry" />
+          <mxGeometry x="56.5" y="170" width="10" height="145" as="geometry" />
         </mxCell>
         <mxCell id="KaSOrM78lBxp9mtejpCv-19" value="用户操作数据" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
           <mxGeometry x="-0.0625" y="10" width="80" relative="1" as="geometry">
@@ -63,9 +63,9 @@
           <mxGeometry x="1293" y="56" width="115" height="358" as="geometry" />
         </mxCell>
         <mxCell id="KaSOrM78lBxp9mtejpCv-22" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="KaSOrM78lBxp9mtejpCv-21">
-          <mxGeometry x="52.5" y="80" width="10" height="231" as="geometry" />
+          <mxGeometry x="52.5" y="169" width="10" height="136" as="geometry" />
         </mxCell>
-        <mxCell id="KaSOrM78lBxp9mtejpCv-23" value="&lt;font style=&quot;font-size: 8px&quot;&gt;传递该用户信息及操作的数据&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
+        <mxCell id="KaSOrM78lBxp9mtejpCv-23" value="&lt;font style=&quot;font-size: 8px&quot;&gt;传递该用户信息及操作的数据&lt;br&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
           <mxGeometry x="-0.0053" y="10" width="80" relative="1" as="geometry">
             <mxPoint x="267.0000000000001" y="197" as="sourcePoint" />
             <mxPoint x="456" y="197" as="targetPoint" />
@@ -82,7 +82,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KaSOrM78lBxp9mtejpCv-28" value="&lt;font style=&quot;font-size: 8px&quot;&gt;传递该用户信息及操作的数据&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
+        <mxCell id="KaSOrM78lBxp9mtejpCv-28" value="&lt;span style=&quot;font-size: 8px&quot;&gt;封装用户信息为token对象,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;将权限和token传入&lt;br&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
           <mxGeometry x="-0.0053" y="10" width="80" relative="1" as="geometry">
             <mxPoint x="738" y="251.66" as="sourcePoint" />
             <mxPoint x="894" y="251.66" as="targetPoint" />
@@ -93,7 +93,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KaSOrM78lBxp9mtejpCv-29" value="&lt;font style=&quot;font-size: 8px&quot;&gt;传递该用户信息及操作的数据&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
+        <mxCell id="KaSOrM78lBxp9mtejpCv-29" value="&lt;font style=&quot;font-size: 8px&quot;&gt;传递该用户信息&lt;br&gt;及操作的数据所需权限&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
           <mxGeometry x="-0.0053" y="10" width="80" relative="1" as="geometry">
             <mxPoint x="499" y="234" as="sourcePoint" />
             <mxPoint x="688" y="234" as="targetPoint" />
@@ -103,7 +103,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KaSOrM78lBxp9mtejpCv-30" value="&lt;span style=&quot;font-size: 8px&quot;&gt;通过用户信息，查询用户权限&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
+        <mxCell id="KaSOrM78lBxp9mtejpCv-30" value="&lt;span style=&quot;font-size: 8px&quot;&gt;传递token对象和数据权限&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
           <mxGeometry x="-0.0053" y="10" width="80" relative="1" as="geometry">
             <mxPoint x="947" y="268.99999999999994" as="sourcePoint" />
             <mxPoint x="1103.0000000000002" y="268.99999999999994" as="targetPoint" />
@@ -114,7 +114,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KaSOrM78lBxp9mtejpCv-31" value="&lt;span style=&quot;font-size: 8px&quot;&gt;访问数据库，查询该用户权限&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
+        <mxCell id="KaSOrM78lBxp9mtejpCv-31" value="&lt;span style=&quot;font-size: 8px&quot;&gt;访问数据库，根据token&lt;br&gt;查询用户权限&lt;br&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
           <mxGeometry x="-0.0053" y="10" width="80" relative="1" as="geometry">
             <mxPoint x="1167" y="292" as="sourcePoint" />
             <mxPoint x="1323.0000000000002" y="292" as="targetPoint" />
@@ -123,6 +123,30 @@
               <mxPoint x="1211" y="291.99999999999994" />
               <mxPoint x="1264" y="291.99999999999994" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaSOrM78lBxp9mtejpCv-32" value="返回权限信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1336" y="320" as="sourcePoint" />
+            <mxPoint x="1160" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaSOrM78lBxp9mtejpCv-37" value="返回验证信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1113" y="347" as="sourcePoint" />
+            <mxPoint x="937" y="347" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaSOrM78lBxp9mtejpCv-38" value="返回验证信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="906" y="373" as="sourcePoint" />
+            <mxPoint x="730" y="373" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaSOrM78lBxp9mtejpCv-39" value="返回验证信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="688" y="399" as="sourcePoint" />
+            <mxPoint x="512" y="399" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
