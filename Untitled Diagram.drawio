@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-07T12:24:36.893Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.41" etag="U1J5qzOYuWejXf0xfCiU" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-07T12:25:57.936Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.41" etag="1V4lDpFic9B82CeltqZD" version="14.7.6" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1663" dy="956" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry x="53" y="23" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KaSOrM78lBxp9mtejpCv-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="62" y="141" width="12" height="222" as="geometry" />
+          <mxGeometry x="62" y="141" width="12" height="323" as="geometry" />
         </mxCell>
         <mxCell id="KaSOrM78lBxp9mtejpCv-11" value="" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="KaSOrM78lBxp9mtejpCv-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -147,6 +147,18 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="688" y="399" as="sourcePoint" />
             <mxPoint x="512" y="399" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaSOrM78lBxp9mtejpCv-40" value="返回验证信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="456" y="419" as="sourcePoint" />
+            <mxPoint x="280" y="419" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaSOrM78lBxp9mtejpCv-41" value="根据验证信息，&lt;br&gt;返回相应页面" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="448" as="sourcePoint" />
+            <mxPoint x="74" y="448" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
